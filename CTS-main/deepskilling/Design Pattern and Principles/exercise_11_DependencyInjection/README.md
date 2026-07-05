@@ -62,7 +62,7 @@ Demonstrates injecting CustomerRepositoryImpl into CustomerService.
 ## Expected Output
 
 ```
-Customer ID: 101, Name: Jyothirmai
+Customer ID: 101, Name: varshitvarma
 ```
 
 ---
