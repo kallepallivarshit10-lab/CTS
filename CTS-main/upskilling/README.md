@@ -245,6 +245,6 @@ Or run individual files using Visual Studio / Visual Studio Code.
 
 # Author
 
-Jyothirmai Chapala
+Varshit Kallepalli
 
 Created as part of the Upskilling Program learning journey.
