@@ -79,7 +79,7 @@ Demonstrates creating a student, modifying details, and displaying them.
 Initial Details:
 Student Details
 ----------------
-Name : varshitvarma
+Name : varshitmai
 ID : 101
 Grade : A
 
