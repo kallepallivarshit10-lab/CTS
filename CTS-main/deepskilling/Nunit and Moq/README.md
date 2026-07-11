@@ -167,6 +167,6 @@ This project successfully demonstrates the implementation of **Unit Testing usin
 
 ## Author
 
-**Name:** Jyothirmai  
+**Name:** K.Varshit Varma  
 **Technology:** C#, NUnit, Moq, Dependency Injection  
 **Purpose:** Cognizant Digital Nurture 5.0 - Deep Skilling Assignment
