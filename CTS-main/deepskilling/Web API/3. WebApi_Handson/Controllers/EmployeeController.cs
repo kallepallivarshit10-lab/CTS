@@ -34,7 +34,7 @@ namespace FirstWebAPI.Controllers
                 new Employee
                 {
                     Id = 2,
-                    Name = "Jyothirmai Chapala",
+                    Name = "Varshit varma",
                     Salary = 65000,
                     Permanent = true,
                     Department = new Department
