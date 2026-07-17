@@ -15,7 +15,7 @@ The employee list used in the experiment was:
 - John
 - David
 - Alice
-- Jyothirmai Chapala
+- Varshit varma
 
 The newly created Employee API was tested using both **Swagger UI** and **Postman**, and the employee list was returned successfully in JSON format.
 
