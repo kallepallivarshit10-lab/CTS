@@ -14,7 +14,7 @@ namespace FirstWebAPI.Controllers
                 "John",
                 "David",
                 "Alice",
-                "Jyothirmai Chapala"
+                "Varshit varma"
             };
 
             return Ok(employees);
