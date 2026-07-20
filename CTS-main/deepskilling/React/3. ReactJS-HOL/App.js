@@ -8,7 +8,7 @@ function App() {
         <div>
 
             <CalculateScore
-                Name="Jyothirmai"
+                Name="Varshit varma"
                 School="VFSTR"
                 Total={540}
                 Goal={6}
