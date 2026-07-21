@@ -85,7 +85,7 @@ git checkout master
 Created `hello.xml` with different content to intentionally create a merge conflict.
 
 ```xml
-<message>from Jyothirmai - Hello from Master Branch</message>
+<message>from varshit - Hello from Master Branch</message>
 ```
 
 Added and committed the file.
