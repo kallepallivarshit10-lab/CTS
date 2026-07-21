@@ -20,8 +20,8 @@ This lab demonstrates the basic Git workflow by configuring Git, creating a loca
 Configured the global username and email.
 
 ```bash
-git config --global user.name "Jyothirmai Chapala"
-git config --global user.email "jyothi.chapala.2006@gmail.com"
+git config --global user.name "varshitvarma"
+git config --global user.email "kallepalli.varshit.10@gmail.com"
 ```
 
 Verified the configuration.
