@@ -139,9 +139,9 @@ Opened `hello.xml`, removed the conflict markers, and kept the required content.
 Final content:
 
 ```xml
-<message>from Jyothirmai - Hello from Master Branch</message>
+<message>from varshit - Hello from Master Branch</message>
 <message>Hello from GitWork Branch</message>
-<message>Jyothirmai Chapala</message>
+<message>varshit varma</message>
 ```
 
 Marked the conflict as resolved.
