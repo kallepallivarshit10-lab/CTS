@@ -5,7 +5,7 @@ public class MVCTest {
         // Create Model
         Student student =
                 new Student(
-                        "Jyothirmai",
+                        "varshit",
                         101,
                         "A");
 
@@ -27,7 +27,7 @@ public class MVCTest {
         System.out.println();
 
         // Update details
-        controller.setStudentName("Jyothi");
+        controller.setStudentName("varshit");
         controller.setStudentGrade("A+");
 
         System.out.println("Updated Details:");
